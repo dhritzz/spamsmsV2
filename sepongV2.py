@@ -1,4 +1,3 @@
-# subscribe MisterAM tod ingat2
 import requests, json, sys, os, random, time
 
 def mengetik(z):
@@ -36,11 +35,11 @@ mengetik(f"""
 \033[37;1m╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝\033[92;1m  ╚══╝╚══╝ \033[36m╚══════╝
 
 \033[33;1m╔════════════════════════════════════════════════╗
-\033[33;1m║  \033[36;1m [•] Authour : MisterAM                      \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Mister-AM    \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] Yotube  : MisterAM                      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Authour : Pushy                         \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Dhritzz      \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Discrod : PushyGamertag27#7165          \033[33;1m ║
 \033[33;1m╚════════════════════════════════════════════════╝
-   Pembuat asli script ini adalah MisteAM
+   Pembuat asli script ini adalah Pushy
    Bnyak yg nyolong kgk di tulis siapa yg buat
          kalian custem sesuka kalian
 \033[36;1m╔═══════════════════════════╗
